@@ -1,0 +1,10 @@
+C:\Projects\Strategy\bin\Debug\netcoreapp2.0\Strategy.deps.json
+C:\Projects\Strategy\bin\Debug\netcoreapp2.0\Strategy.runtimeconfig.json
+C:\Projects\Strategy\bin\Debug\netcoreapp2.0\Strategy.runtimeconfig.dev.json
+C:\Projects\Strategy\bin\Debug\netcoreapp2.0\Strategy.dll
+C:\Projects\Strategy\bin\Debug\netcoreapp2.0\Strategy.pdb
+C:\Projects\Strategy\obj\Debug\netcoreapp2.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Projects\Strategy\obj\Debug\netcoreapp2.0\Strategy.AssemblyInfoInputs.cache
+C:\Projects\Strategy\obj\Debug\netcoreapp2.0\Strategy.AssemblyInfo.cs
+C:\Projects\Strategy\obj\Debug\netcoreapp2.0\Strategy.dll
+C:\Projects\Strategy\obj\Debug\netcoreapp2.0\Strategy.pdb
